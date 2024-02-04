@@ -1,0 +1,18 @@
+﻿{
+  "browser": "chrome",
+  "URL": "https://www.saucedemo.com/",
+  "username1": "standard_user",
+  "username2": "problem_user",
+  "username3": "error_user",
+  "username4": "locked_out_user",
+  "username5": "performance_glitch_user",
+  "username6": "visual_user",
+  "password": "secret_sauce",
+  "product1": "Sauce Labs Backpack",
+  "product2": "Sauce Labs Bolt T-Shirt",
+  "product3": "Sauce Labs Fleece Jacket",
+  "FirstName": "Franckie",
+  "LastName": "Robert",
+  "ZipCode": "11121"
+}
+  
